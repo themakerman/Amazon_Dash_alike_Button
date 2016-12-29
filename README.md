@@ -1,4 +1,4 @@
-DIY AMAZON DASH ALIKE USING INTEL EDISON
+#DIY AMAZON DASH ALIKE USING INTEL EDISON
 
 This is a hardware project which was taken and completed by me and my partner in INTEL IOT Hackathon.
 Function : Developed a DIY Clone of Amazon dash to order a particular product online by pressing the AMAZON dash like Button.
