@@ -6,10 +6,4 @@ Here is the detailed Instrucional Instructable : http://www.instructables.com/id
 
 
 ![9 easy buy amazon dash](https://cloud.githubusercontent.com/assets/14818804/21538860/48e2e940-cdc7-11e6-9f7f-b6e7ce089c07.jpg)
-
-
-
-
-
-
 https://www.youtube.com/watch?v=6-GI_FX4vQY
